@@ -1,0 +1,4 @@
+A melhoria do programa poderá se dar através
+de prática de padrões de projeto para tornar o código mais limpo,
+mais opção para o usuário ,possibilitando remoção de alteração e 
+quantidade de produtos e funcionários.
